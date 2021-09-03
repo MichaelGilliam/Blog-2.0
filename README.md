@@ -1,3 +1,5 @@
-# Blog-2.0
+## Michaels path to a web developer!
 
-this is a work in progress blog, updating weekly!
+# This will be my progress ongoing for the next coming weeks / months!
+
+Everything seems difficult at the moment, but I know I can do it.  Its not a matter of, I can't do it, I just can't do it _yet_!
