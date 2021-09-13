@@ -47,3 +47,21 @@ I would say my biggest struggle would be either focusing on the task and not ste
 We all learn and struggle in different ways, but I know I can do this.  I will give my best effort so I can prove myself, **THIS CAN BE DONE**.  
 
 Just like some of my other classmates have said, I cannot wait to get in the actual classroom and learn onsite.  Learning remote is something I don't excel at, but I only have 2 more weeks to go!
+
+## Week 3 09/06/21 - 09/10/21
+
+Third week was a tough.  Facing blockers with learning / reading JavaScript.  I underestimated grasshopper this week since the past few weeks it seemed I very straight forward and hand holding.
+This week JavaScript taught me there is so much more than just simple arrays, functions, etc.  Seriously there is...
+I didn't get to demo any projects on demo day, because I procrasinated with the work, and underestimated the work for this sprint.
+Plus I'm preparing to move states to get ready to go into person, so very busy.
+
+## Struggles:
+- JavaScript functions, etc. 
+- DEBUGGING CODE
+- Forgetting strings need "" 
+- MOTIVATION 
+
+## Summarizing Week 3 
+
+So excited to start week 4, and get closer and closer to in person.  Hoping its way different than being at home as far as learning experience. 
+Wish me luck!
