@@ -55,6 +55,13 @@ This week JavaScript taught me there is so much more than just simple arrays, fu
 I didn't get to demo any projects on demo day, because I procrasinated with the work, and underestimated the work for this sprint.
 Plus I'm preparing to move states to get ready to go into person, so very busy.
 
+My thoughts on HTML, CSS, and JavaScript during week 3: 
+
+- HTML is probably the easiest language out of all of them.
+- CSS is the 2nd easiest, and looks more challenging than it sounds.
+- JavaScript looks like the hardest, and most interactive.  
+JavaScript is probably my favorite at the moment, that might change once I realize how much harder it is to type / use the language.
+
 ## Struggles:
 - JavaScript functions, etc. 
 - DEBUGGING CODE
