@@ -107,13 +107,13 @@ So honestly I just left it alone, didn't challenge myself, because I start in pe
 - The most used answer is probably the Slack channel, but honestly its the instructors.  Although with all the rollercoaster emotions you have, doubting yourself, wondering if you made the right choice, etc.  Although we never had a professional or personal relationship with Ian or Justin, they both went out of their way to make sure everything went as smooth as it can.  They're not only very nice, but also very understanding.  So if you're reading this, thanks!
 
 ### What hindered your progress during Onboarding?
-- It has to be alot of things that go into play with this question.  Mostly for me, I would honestly give up too easy, click off the task, and go play a game of something.  Doing work that I'm suppose to do, in the same play I play my video games is not a good mixture for getting work DONE.
+- It has to be alot of things that go into play with this question.  Mostly for me, I would honestly give up too easy, click off the task, and go play a game of something.  Doing work that I'm suppose to do, in the same place I play my video games is not a good mixture for getting work DONE.
 
 ### How did you overcome challenges during Onboarding?
 - Several ways you can do this, look at the help channel in Slack, uninstall any programs that distract you while working (literally), talk about cool things that coding can do to motivate you to continue further, and finally, **CONSTANTLY REMINDING YOURSELF WHY YOU STARTED**.
 
 # SUMMARIZING PRE WORK (FIRST 4 WEEKS):
 
-**TO WHOM IT MIGHT CONCERN**: Even at the end of week 4, I still feel like I don't know anything at ALL.  I feel like some people are way smarter than me, and I undervalue myself deeply.  I hope in person has such a good vibe to it, and well, if this doesn't work outk, at least I met some pretty cool people out here in Lexington.
+**TO WHOM IT MIGHT CONCERN**: Even at the end of week 4, I still feel like I don't know anything at ALL.  I feel like some people are way smarter than me, and I undervalue myself deeply.  I hope in person has such a good vibe to it, and well, if this doesn't work out, at least I met some pretty cool people out here in Lexington.
 
 HTML, CSS we spent not as much as I thought we would around (2 weeks), then jumped right into JavaScript, and I was drowning.  JavaScript has been crazy so far, and we still have 4 more weeks of that with react and bootstrap.  I was so uncomfortable and scared to get used to the terminal to make repo's and commit changes to our github projects.  It took me around mid week 3 to get somewhat okay with the terminal, and git.  Watching Ian's tutorials over and over on how to make a blog and upload it to github, and using that to make my other projects **HELPED SO MUCH**.  Hopefully one day this is all worth it, and I look back at the working im doing, like this, and laugh at how easy everything would be.  Gotta be up in 4 1/2 hours to get ready for week 5, SO LETS PUSH THIS BLOG UP TO GITHUB AND GOOOOOOOOOOOOOOOOO.
