@@ -72,3 +72,48 @@ JavaScript is probably my favorite at the moment, that might change once I reali
 
 So excited to start week 4, and get closer and closer to in person.  Hoping its way different than being at home as far as learning experience. 
 Wish me luck!
+
+# Week 4 blog: 
+ **O_______________________O**
+
+ Yep. Thats it.  Not only is that my face for this week, but for the rest of the weeks.
+
+ This week was definately the easiest, and the hardest. 
+
+ On a personal level, I started this week catching up on last weeks work, and moving to Lexington to get ready for the in person process.  
+
+ So much has happened this week, so lets talk about it.
+
+
+Tuesday started with 2 hours of sleep, a packed uHaul, car trailer, and I head leave my hometown in TN for the 180 mile trip up my new home in Lexington.
+Thanks to some AMAZING people in the Bootcamp Slack channel, I was able to get some help moving some of my stuff into my apartment, but there is a twist.  While unloading my stuff in the back, some woman hit my uHaul and DELAYED my entire progress for learning this week, and moving.  
+
+Wednesday comes around, I'm able to FINALLY get settled in, and get internet in my new place.... lets get to work.  Wednesday started off with ALOT of reading (From what I can remember), 
+So much reading... so much, that I don't even remember most of what I read... (oops).  Then came the Kata's on Codewars.... Oh man.... O___O
+
+So lets just say, I had to do a lot of googling to get some refresh on the brain, on stuff that is very basic level.  I HAD TO GOOGLE WHAT A INTEGER IS, A **INTEGER**.  
+
+The first 2 Kata's were pretty hard for me,  the 3rd one was okay, and the 4th one was a on and off challenge.  I really enjoyed the last Kata we had to do, because well for one, I had almost passed my first attempt on my code.  I added a new line of code, passed, but didn't pass all the tests, just one.  So I was stumped for awhile, but I knew I had it, I was SO close.  
+
+Chad, one of my good friends that I've gotten to known well guided me through it, and we we're able to get it done.  
+
+**Project of the week**: Bouncing balls project, I thought it was going to be so intimidating, I didn't get to start on the project until Sunday, and 2 days overdue.  
+
+Turns out the copy / paste code the project was given to us, basically completes the project as a whole, and we need to do some stretch goals to make it "look cool", and function better.
+
+So honestly I just left it alone, didn't challenge myself, because I start in person class in currently.... 6 hours... welcome to my life lol. 
+
+### What was helpful during Onboarding working remotely?
+- The most used answer is probably the Slack channel, but honestly its the instructors.  Although with all the rollercoaster emotions you have, doubting yourself, wondering if you made the right choice, etc.  Although we never had a professional or personal relationship with Ian or Justin, they both went out of their way to make sure everything went as smooth as it can.  They're not only very nice, but also very understanding.  So if you're reading this, thanks!
+
+### What hindered your progress during Onboarding?
+- It has to be alot of things that go into play with this question.  Mostly for me, I would honestly give up too easy, click off the task, and go play a game of something.  Doing work that I'm suppose to do, in the same play I play my video games is not a good mixture for getting work DONE.
+
+### How did you overcome challenges during Onboarding?
+- Several ways you can do this, look at the help channel in Slack, uninstall any programs that distract you while working (literally), talk about cool things that coding can do to motivate you to continue further, and finally, **CONSTANTLY REMINDING YOURSELF WHY YOU STARTED**.
+
+# SUMMARIZING PRE WORK (FIRST 4 WEEKS):
+
+**TO WHOM IT MIGHT CONCERN**: Even at the end of week 4, I still feel like I don't know anything at ALL.  I feel like some people are way smarter than me, and I undervalue myself deeply.  I hope in person has such a good vibe to it, and well, if this doesn't work outk, at least I met some pretty cool people out here in Lexington.
+
+HTML, CSS we spent not as much as I thought we would around (2 weeks), then jumped right into JavaScript, and I was drowning.  JavaScript has been crazy so far, and we still have 4 more weeks of that with react and bootstrap.  I was so uncomfortable and scared to get used to the terminal to make repo's and commit changes to our github projects.  It took me around mid week 3 to get somewhat okay with the terminal, and git.  Watching Ian's tutorials over and over on how to make a blog and upload it to github, and using that to make my other projects **HELPED SO MUCH**.  Hopefully one day this is all worth it, and I look back at the working im doing, like this, and laugh at how easy everything would be.  Gotta be up in 4 1/2 hours to get ready for week 5, SO LETS PUSH THIS BLOG UP TO GITHUB AND GOOOOOOOOOOOOOOOOO.
